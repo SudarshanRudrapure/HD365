@@ -13,7 +13,7 @@ const Copilot1 = () => {
 
       <h1>Hello Sudarshan</h1>
 
-      {/* <Cred /> */}
+      <Cred />
 
 
       <button onClick={() => setShowChat(!showChat)}>
