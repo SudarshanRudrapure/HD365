@@ -1,5 +1,5 @@
 import * as React from 'react';
-// import Cred from './Cred';
+import Cred from './Cred';
 import { useState } from 'react';
 import ContextService from './ContextService';
 import Chat from './Chat';
